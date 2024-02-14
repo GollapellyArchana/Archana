@@ -1,0 +1,10 @@
+Screen1 As screen:
+
+    Label1 As label:
+        Height: =80
+        Text: ="Text"
+        Width: =337
+        X: =46
+        Y: =42
+        ZIndex: =1
+
